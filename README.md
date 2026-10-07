@@ -33,6 +33,3 @@ MindInsight is an AI-powered mental wellness analysis system that helps users un
 ## Disclaimer
 
 MindInsight is an awareness tool and is not intended to diagnose, treat, or replace professional medical advice. Users with severe results are encouraged to consult a healthcare professional.
-
-## Credits
-Based on the MindInsight project by [Navya Nanda and Sakshi Arora](https://github.com/chipichipii/MindInsight).
