@@ -23,6 +23,17 @@ MindInsight is an AI-powered mental wellness screening system that uses a multi-
 3. The ANN model predicts Depression, Anxiety and Stress levels together.
 4. Results are shown with visual insights and recommendations.
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Questionnaire
+![Questionnaire](screenshots/questionnaire.png)
+
+### Results
+![Results](screenshots/results.png)
+
 ## How to Run
 
 **Backend**
