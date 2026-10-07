@@ -23,26 +23,32 @@ MindInsight is an AI-powered mental wellness screening system that uses a multi-
 3. The ANN model predicts Depression, Anxiety and Stress levels together.
 4. Results are shown with visual insights and recommendations.
 
-##Screenshots
+## Screenshots
 
-### Home
-![MindInsight home page](MindInsight_SS/Home.png)
-*The landing page, where users [start a session / choose an option / enter their details].*
+### 1. Home Page
+![Home page](MindInsight_SS/Home.png)
 
-### Asking a Question
-![Question input screen](MindInsight_SS/question.png)
-*The input screen, where the user types or selects [their question / the prompt they want analysed].*
+The landing page introduces MindInsight as an AI-powered mental health insight dashboard. A sample wellness card previews the stress, anxiety and mood scores users can expect, along with a 30-day trend chart. Users can start the assessment, open the demo, or switch between light and dark mode.
 
-### Results
-![Result 1](MindInsight_SS/result1.png)
-*Result 1: [what this output shows, e.g. the answer or summary generated for the question].*
+### 2. Assessment Questionnaire
+![Assessment question](MindInsight_SS/question.png)
 
-![Result 2](MindInsight_SS/result2.png)
-*Result 2: [e.g. a detailed breakdown, chart, or follow-up insight].*
+A guided 27-question assessment, split into sections such as "About You". Each screen shows one question with a progress bar, a question counter and a completion percentage. Users can move back and forth with Previous/Next or cancel at any time.
 
-![Result 3](MindInsight_SS/result3.png)
-*Result 3: [e.g. recommendations, a score, or a different example input and its output].*
+### 3. Results Dashboard
+![Results dashboard](MindInsight_SS/result1.png)
 
+The results page summarises depression, anxiety and stress as scores out of 5, each with a severity label (e.g. Moderate). A score comparison bar chart and a weekly trend graph show how the three areas compare.
+
+### 4. Personalized Insights & Digital Mental Health Twin
+![Personalized insights and digital twin](MindInsight_SS/result2.png)
+
+Each area gets a short, tailored insight, such as breathing exercises for anxiety. The "Digital Mental Health Twin" feature matches the user's responses to a similar behavioural profile and lists the traits common to people with similar patterns, such as high emotional sensitivity and frequent overthinking.
+
+### 5. Twin Comparison & Recommendations
+![Twin comparison and recommendations](MindInsight_SS/result3.png)
+
+The user's scores are shown side by side with their twin's, with a short explanation of what the comparison means. Below that are practical wellness recommendations, such as relaxation techniques, a consistent sleep schedule and journaling. The page ends with options to retake the assessment or return home, and a disclaimer that the tool does not replace professional medical advice.
 
 ## How to Run
 
