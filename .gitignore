@@ -1,0 +1,6 @@
+desktop.ini
+*.exe
+__pycache__/
+node_modules/
+.next/
+.env
